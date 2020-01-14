@@ -1,5 +1,7 @@
 # React JS Resume Webpage
 
+![Splash](https://imgur.com/YC9YIZW.png)
+
 This is a React JS resume webpage adapted from Tim Baker's react template (credits below). It is currently a work-in-progress.
 
 Gh-pages branch (website files) deployed through `npm run deploy`.

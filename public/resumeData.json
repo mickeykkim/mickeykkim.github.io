@@ -2,10 +2,10 @@
   "main": {
     "name":"Mickey Kim",
     "occupation":"Software Developer",
-    "description":"As a recent computer science graduate, I'm looking to transition into a career in emergent technology and digital health",
+    "description":"As a recent computer science graduate and previous computational biology researcher, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, or full stack development) with emphasis on digital health",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Drop me a line. (Contact form WIP, please send an email for now!)",
     "email": "mickeykkim@gmail.com",
     "phone": "+44 7500 914491",
     "address":{
@@ -16,7 +16,7 @@
       "country": "UK"
     },
     "website": "https://mickeykkim.github.io/homepage/",
-    "resumedownload":"https://mickeykkim.github.io/homepage/resume.pdf",
+    "resumedownload":"mickeykim_resume.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -41,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Summary of technical skills:",
     "education":[
       {
         "school":"University of Bristol",
@@ -72,78 +72,52 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"C",
+        "level":"100%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Java",
+        "level":"100%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"SPHERE PD Sensors",
+        "category":"Bristol MSc project (Django, Python)",
+        "image":"spherepd.jpg",
+        "url":"https://github.com/mickeykkim/masters-project-sphere"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"SongShare",
+        "category":"Sequelize, Express.js, Vue.js, Node.js web app for sharing songs",
+        "image":"songshare.jpg",
+        "url":"https://song-share-vue.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"JBreakout",
+        "category":"Breakout clone written in Java",
+        "image":"jbreakout.jpg",
+        "url":"https://github.com/mickeykkim/java-javafx-breakout"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Resume Webpage",
+        "category":"Resume webpage using React JS template",
+        "image":"reactresume.jpg",
+        "url":"https://github.com/mickeykkim/homepage"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"",
+        "user":""
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"",
+        "user":""
       }
     ]
   }
