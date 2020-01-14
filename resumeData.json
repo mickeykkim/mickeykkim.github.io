@@ -104,7 +104,7 @@
       {
         "title":"Resume Webpage",
         "category":"Resume webpage using React JS template",
-        "image":"jbreakout.jpg",
+        "image":"reactresume.jpg",
         "url":"https://github.com/mickeykkim/homepage"
       }
     ]
@@ -112,7 +112,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"",
+        "text":"Testimonials",
         "user":""
       },
       {
