@@ -5,7 +5,7 @@
     "description":"As a recent computer science graduate and previous computational biology researcher, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, or full stack development) with emphasis on digital health",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Drop me a line. (Contact form WIP, please send an email for now!)",
     "email": "mickeykkim@gmail.com",
     "phone": "+44 7500 914491",
     "address":{
@@ -41,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Summary of technical skills:",
     "education":[
       {
         "school":"University of Bristol",
@@ -71,6 +71,14 @@
       }
     ],
     "skills":[
+      {
+        "name":"C",
+        "level":"100%"
+      },
+      {
+        "name":"Java",
+        "level":"100%"
+      }
     ]
   },
   "portfolio":{
@@ -78,20 +86,26 @@
       {
         "title":"SPHERE PD Sensors",
         "category":"Bristol MSc project (Django, Python)",
-        "image":"canadian-wanderlust.jpg",
+        "image":"spherepd.jpg",
         "url":"https://github.com/mickeykkim/masters-project-sphere"
       },
       {
         "title":"SongShare",
         "category":"Sequelize, Express.js, Vue.js, Node.js web app for sharing songs",
-        "image":"fury-fighting-gear.jpg",
+        "image":"songshare.jpg",
         "url":"https://song-share-vue.herokuapp.com/"
       },
       {
         "title":"JBreakout",
         "category":"Breakout clone written in Java",
-        "image":"original-thai-food.jpg",
+        "image":"jbreakout.jpg",
         "url":"https://github.com/mickeykkim/java-javafx-breakout"
+      },
+      {
+        "title":"Resume Webpage",
+        "category":"Resume webpage using React JS template",
+        "image":"jbreakout.jpg",
+        "url":"https://github.com/mickeykkim/homepage"
       }
     ]
   },
