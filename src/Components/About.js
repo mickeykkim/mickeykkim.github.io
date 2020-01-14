@@ -11,6 +11,7 @@ class About extends Component {
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
       var zip = this.props.data.address.zip;
+      var country = this.props.data.address.country;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
@@ -30,12 +31,11 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
-                   </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+						   {name}<br />
+						   {street} <br />
+						   {city}, {state} {zip}<br />
+                     {country}<br />
+						   <span>{phone}</span>
 					   </p>
                </div>
                <div className="columns download">
