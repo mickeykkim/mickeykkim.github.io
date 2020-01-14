@@ -1,7 +1,21 @@
-Project created with create-react-app.
+# React JS Resume Webpage
 
-Currently work-in-progress.
+This is a React JS resume webpage adapted from Tim Baker's react template (credits below). IT is currently a work-in-progress.
 
 Gh-pages branch (website files) deployed through `npm run deploy`.
 
-Website here: https://mickeykkim.github.io/homepage/
+### Website here: 
+https://mickeykkim.github.io/homepage/
+
+## Credits
+##### Tim Baker's React Template
+<a href="hhttps://github.com/tbakerx/react-resume-template">A personal resume website template built with ReactJs</a>
+
+#### HTML Design Template
+<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
+
+##### Header photo credit
+<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
+
+##### Testimonial photo credit
+<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</
