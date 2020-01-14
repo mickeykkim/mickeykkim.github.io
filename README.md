@@ -1,5 +1,7 @@
 Project created with create-react-app.
 
-Gh-pages branch deployed through `npm run deploy`.
+Currently work-in-progress.
+
+Gh-pages branch (website files) deployed through `npm run deploy`.
 
 Website here: https://mickeykkim.github.io/homepage/
