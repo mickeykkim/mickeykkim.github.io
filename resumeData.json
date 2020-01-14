@@ -2,7 +2,7 @@
   "main": {
     "name":"Mickey Kim",
     "occupation":"Software Developer",
-    "description":"As a recent computer science graduate, I'm looking to transition into a career in emergent technology and digital health",
+    "description":"As a recent computer science graduate, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, or full stack development) with emphasis on digital health",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -16,7 +16,7 @@
       "country": "UK"
     },
     "website": "https://mickeykkim.github.io/homepage/",
-    "resumedownload":"https://mickeykkim.github.io/homepage/resume.pdf",
+    "resumedownload":"mickeykim_resume.pdf",
     "social":[
       {
         "name":"linkedin",
