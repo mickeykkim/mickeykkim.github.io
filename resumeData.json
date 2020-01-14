@@ -4,7 +4,7 @@
     "occupation":"Software Developer",
     "description":"As a recent computer science graduate and previous computational biology researcher, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, or full stack development) with emphasis on digital health",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Recent computer science master’s degree graduate seeking a career in software development. Self-motivated with work experience in various fields. Passionate about digital health, user-centered development and design, and education. Eager to learn new technology stacks with well-developed problem solving skills. Experienced in consultation and managing/leading individuals and groups towards a focused goal.",
     "contactmessage":"Drop me a line. (Contact form WIP, please send an email for now!)",
     "email": "mickeykkim@gmail.com",
     "phone": "+44 7500 914491",
@@ -47,37 +47,72 @@
         "school":"University of Bristol",
         "degree":"Masters of Science in Computer Science",
         "graduated":"July 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Course Highlights: C, Java/OOP Design Principles, Databases (MySQL), Web Technologies, Software Engineering Group Project (C#/Unity). Thesis Project: Development of a Web-Based Application for Clinical Evaluation of Parkinson’s Symptoms in a Residential Environment."
       },
       {
         "school":"Clemson University",
         "degree":"Bachelors of Science in Physics",
         "graduated":"June 2006",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Graduated Magna Cum Laude. Received Calhoun Honors College Award for completion of honors-level curriculum."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"TELOS Consulting",
+        "title":"Section Manager",
+        "years":"Mar 2016 - Mar 2017",
+        "description1":"- Developed admission strategies to colleges, boarding schools via individual consultations",
+        "description2":"- Guided research projects, volunteer opportunities, and essay and application development",
+        "description3":"- Strategized STEM-focused course planning and extracurricular activities",
+        "description4":"- Mentored Jr. consultants on student strategies"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Duke University Medical Center",
+        "title":"Lab Manager; Research Technician II",
+        "years":"Jul 2007 - Mar 2012",
+        "description1":"- Performed computer modeling of genomic data for personalized cancer treatment",
+        "description2":"- Performed machine learning analyses/visualizations in R for computational bioinformatics",
+        "description3":"- Managed 5-person laboratory through meeting scheduling, ordering, and inventory control",
+        "description4":"- Presented research at talks and conferences"
+      },
+      {
+        "company":"Clemson University",
+        "title":"Research Assistant",
+        "years":"Aug 2005 - May 2006",
+        "description1":"- Performed biophysics research including experiment setup and computational analysis",
+        "description2":"- Assisted with experiment towards paper on motion of UV-irradiated DNA",
+        "description3":"- Performed statistical image analyses using MatLab",
+        "description4":""
       }
     ],
     "skills":[
       {
         "name":"C",
-        "level":"100%"
+        "level":"70%"
       },
       {
         "name":"Java",
-        "level":"100%"
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript & Front End Frameworks (Vue JS, React JS)",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
+        "level":"40%"
       }
     ]
   },
@@ -112,7 +147,7 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Testimonials",
+        "text":"Testimonials (for the future)",
         "user":""
       },
       {
