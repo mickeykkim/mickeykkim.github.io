@@ -7,9 +7,8 @@ class Publications extends Component {
       var publications = this.props.data.publications.map(function(publications){
         return <li key={publications.title}>
            <blockquote>
-               <p><em>{publications.title}</em></p>
+               <p><a href={publications.url}><em>{publications.title}</em></a></p>
                <cite>{publications.journal}<span> &bull; {publications.date}</span></cite><br /> 
-               <a href={publications.url}>{publications.url}</a>
             </blockquote>
          </li>
       })
