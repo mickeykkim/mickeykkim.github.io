@@ -26,7 +26,7 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{phone}</span><br />
+						   <span><i class="fas fa-mobile-alt"></i>&nbsp;{phone}</span><br />
                      <a href={"mailto:" + email}>{email}</a>
 					   </p>
                </div>

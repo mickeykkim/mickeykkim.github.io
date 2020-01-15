@@ -88,7 +88,7 @@ class Contact extends Component {
 					   </p>
                   <h4>Contact</h4>
 					   <p className="address">
-						   <span>{phone}</span><br />
+						   <span><i class="fas fa-mobile-alt"></i>&nbsp;{phone}</span><br />
                      <a href={"mailto:" + email}>{email}</a>
 					   </p>
 				   </div>
