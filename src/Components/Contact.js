@@ -8,7 +8,7 @@ class Contact extends Component {
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
+      var postal = this.props.data.address.postal;
       var country = this.props.data.address.country;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
@@ -83,7 +83,7 @@ class Contact extends Component {
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
-						   {city}, {state} {zip}<br />
+						   {city}, {state} {postal}<br />
                      {country}<br />
 					   </p>
                   <h4>Contact</h4>
