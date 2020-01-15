@@ -2,9 +2,9 @@
   "main": {
     "name":"Mickey Kim",
     "occupation":"Software Developer",
-    "description":"As a recent computer science graduate and previous computational biology researcher, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, or full stack development) with emphasis on digital health",
+    "description":"As a recent computer science graduate and previous computational biology cancer researcher, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, or full stack development) with emphasis on digital health",
     "image":"profilepic.jpg",
-    "bio":"Recent computer science master’s degree graduate seeking a career in software development. Self-motivated with work experience in various fields. Passionate about digital health, user-centered development and design, and education. Eager to learn new technology stacks with well-developed problem solving skills. Experienced in consultation and managing/leading individuals and groups towards a focused goal.",
+    "bio":"I am a technology enthusiast with a passion for digital health. Previously, I worked in computational biology research focusing on personalized genomics for cancer treatment and have co-authored five papers (one first authorship). I also have extensive experience in education consulting to assist parents and students achieve their education goals through personalized expert assessment. Having recently completed a MSc in computer science, I want to transition careers in emerging technological fields such as embedded IoT, Swift iOS, or full stack development, particularly in the areas of digital health. I aspire to create technological solutions to human diseases, both physical and mental. In my free time I enjoy making music and traveling.",
     "contactmessage":"Drop me a line. (Contact form WIP, please send an email for now!)",
     "email": "mickeykkim@gmail.com",
     "phone": "+44 7500 914491",
@@ -21,22 +21,27 @@
       {
         "name":"linkedin",
         "url":"https://linkedin.com/in/mickey-kim/",
-        "className":"fa fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"http://github.com/mickeykkim",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
       },
       {
         "name":"youtube",
         "url":"https://www.youtube.com/channel/UCkCsTBV10cdD_TSSR78wmZg",
-        "className":"fa fa-youtube"
+        "className":"fab fa-youtube"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/mickeykkim",
-        "className":"fa fa-instagram"
+        "className":"fab fa-instagram"
+      },
+      {
+        "name":"soundcloud",
+        "url":"http://soundcloud.com/auroraeterne",
+        "className":"fab fa-soundcloud"
       }
     ]
   },
@@ -144,15 +149,37 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "publications":{
+    "publications":[
       {
-        "text":"Testimonials (for the future)",
-        "user":""
+        "title":"Characterization of an oxaliplatin sensitivity predictor in a preclinical murine model of colorectal cancer.",
+        "date":"Jul 7, 2012",
+        "journal":"Molecular Cancer Therapeutics",
+        "url":"http://www.ncbi.nlm.nih.gov/pubmed/22351745"
       },
       {
-        "text":"",
-        "user":""
+        "title":"Gene expression profiling of peritoneal metastases from appendiceal and colon cancer demonstrates unique biologic signatures and predicts patient outcomes.",
+        "date":"Apr 4, 2012",
+        "journal":"Journal of the American College of Surgeons",
+        "url":"https://www.ncbi.nlm.nih.gov/pubmed/22342786"
+      },
+      {
+        "title":"Immune signatures predict prognosis in localized cancer.",
+        "date":"Aug 28, 2010",
+        "journal":"Cancer Investigation",
+        "url":"https://www.ncbi.nlm.nih.gov/pubmed/20569070"
+      },
+      {
+        "title":"Characterizing the developmental pathways TTF-1, NKX2-8, and PAX9 in lung cancer.",
+        "date":"Mar 31, 2009",
+        "journal":"Proceedings of the National Academy of Science",
+        "url":"https://www.ncbi.nlm.nih.gov/pubmed/19279207"
+      },
+      {
+        "title":"A single-molecule study on the structural damage of ultraviolet radiated DNA.",
+        "date":"Apr 9, 2008",
+        "journal":"International Journal of Molecular Sciences",
+        "url":"https://www.ncbi.nlm.nih.gov/pubmed/19325771"
       }
     ]
   }
