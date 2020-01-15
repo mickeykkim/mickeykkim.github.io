@@ -21,22 +21,27 @@
       {
         "name":"linkedin",
         "url":"https://linkedin.com/in/mickey-kim/",
-        "className":"fa fa-linkedin"
+        "className":"fab fa-linkedin"
       },
       {
         "name":"github",
         "url":"http://github.com/mickeykkim",
-        "className":"fa fa-github"
+        "className":"fab fa-github"
       },
       {
         "name":"youtube",
         "url":"https://www.youtube.com/channel/UCkCsTBV10cdD_TSSR78wmZg",
-        "className":"fa fa-youtube"
+        "className":"fab fa-youtube"
       },
       {
         "name":"instagram",
         "url":"http://instagram.com/mickeykkim",
-        "className":"fa fa-instagram"
+        "className":"fab fa-instagram"
+      },
+      {
+        "name":"soundcloud",
+        "url":"http://soundcloud.com/auroraeterne",
+        "className":"fab fa-soundcloud"
       }
     ]
   },

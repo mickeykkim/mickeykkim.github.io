@@ -600,7 +600,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #call-to-action h1 span { display: none; }
 #call-to-action .header-col h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
    content: "\f0ac";
 	padding-right: 10px;
 	font-size: 72px;
@@ -668,7 +669,8 @@ call-to-action .button {
 #publications h1 span { display: none; }
 #publications .header-col { padding-top: 9px; }
 #publications .header-col h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
    content: "\f02d";
 	padding-right: 10px;
 	font-size: 72px;
@@ -689,7 +691,7 @@ call-to-action .button {
 #publications blockquote p {
    font-family: 'opensans-bold', serif;
    padding: 0;
-   font-size: 15px;
+   font-size: 18px;
    line-height: 28px;
    color: #fff
 }
@@ -810,7 +812,8 @@ call-to-action .button {
 }
 #contact h1 span { display: none; }
 #contact h1:before {
-   font-family: 'FontAwesome';
+   font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
    content: "\f0e0";
 	padding-right: 10px;
 	font-size: 72px;

@@ -271,8 +271,8 @@
    #publications .header-col h1:before { content: none; }
    #publications blockquote { padding-bottom: 24px; }
    #publications blockquote p {
-      font-size: 20px;
-      line-height: 42px;      
+      font-size: 16px;
+      line-height: 32px;      
    }
 
    /* Control Nav */
