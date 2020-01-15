@@ -12,9 +12,11 @@
       "street":"10 Failand Walk",
       "city":"Bristol",
       "state":"",
-      "zip": "BS9 2EU",
-      "country": "UK"
+      "postal": "BS9 2EU",
+      "country": "United Kingdom",
+      "twocharcountry": "UK"
     },
+    "copyrightyear":"2020",
     "website": "https://mickeykkim.github.io/homepage/",
     "resumedownload":"mickeykim_resume.pdf",
     "social":[
