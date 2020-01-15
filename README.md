@@ -4,11 +4,12 @@
 
 This is a React JS resume webpage adapted from Tim Baker's react template (credits below). It is currently a work-in-progress.
 
-All data is populated from a json file (public/resumeData.json) that the user can edit.
+All data is populated from a json file (<a href="https://github.com/mickeykkim/homepage/blob/master/public/resumeData.json">public/resumeData.json</a>) that the user can edit.
 
-Gh-pages branch (website files) are deployed through `npm run deploy`.
+Gh-pages branch (website files) are deployed through the command `npm run deploy`.
 
 TODO: Remove the progress-bar style skills and replace with something more intuitive i.e. simple labels "Years of experience" or similar.
+TODO: Finish contact form functionality.
 
 ### Website here: 
 https://mickeykkim.github.io/homepage/
