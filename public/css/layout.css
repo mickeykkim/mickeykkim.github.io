@@ -680,7 +680,9 @@ call-to-action .button {
    float: left;
    color: #fff;
 }
-
+#publications p {
+   margin: 0 0 0 0;
+}
 /*	Blockquotes */
 #publications blockquote {
    margin: 0 0px 10px 0px;

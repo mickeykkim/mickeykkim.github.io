@@ -110,12 +110,20 @@
         "level":"70%"
       },
       {
-        "name":"JavaScript & Front End Frameworks (Vue JS, React JS)",
+        "name":"Python",
         "level":"60%"
       },
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"JavaScript & Front End Frameworks (Vue JS, React JS)",
+        "level":"50%"
+      },
+      {
+        "name":"R",
+        "level":"50%"
+      },
+      {
+        "name":"Swift",
+        "level":"40%"
       },
       {
         "name":"C#",
