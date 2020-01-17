@@ -8,9 +8,7 @@ All data is populated from a json file (<a href="https://github.com/mickeykkim/h
 
 <a href="https://github.com/mickeykkim/homepage/tree/gh-pages">Gh-pages branch</a> (website files) are deployed through the command `npm run deploy`.
 
-TODO: 1. Remove the progress-bar style skills and replace with something more intuitive i.e. simple labels "Years of experience" or similar.
-
-TODO: 2. Finish contact form functionality.
+TODO: Finish contact form functionality.
 
 ### Website here: 
 https://mickeykkim.github.io/homepage/

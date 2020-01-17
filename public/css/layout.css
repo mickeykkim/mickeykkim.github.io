@@ -258,6 +258,10 @@ ul#nav li.current a { color: #F06000; }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
+#resume strong {
+   color: #313131;
+   font: 18px/24px 'opensans-bold', sans-serif;
+}
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
@@ -281,11 +285,19 @@ ul#nav li.current a { color: #F06000; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
-
+#resume .description {
+   font: 15px/24px 'opensans-regular', sans-serif;
+   margin-top: 12px;
+}
+#resume .years {
+   font: 15px/24px 'opensans-italic', serif;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
-
+/*
 .bars {
 	width: 95%;
 	float: left;
@@ -325,6 +337,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
+*/
 /*
 .git {
   	-moz-animation: git 2s ease;
