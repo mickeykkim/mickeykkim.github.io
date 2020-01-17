@@ -48,7 +48,6 @@
     ]
   },
   "resume":{
-    "skillmessage":"Summary of technical skills:",
     "education":[
       {
         "school":"University of Bristol",
@@ -67,7 +66,7 @@
       {
         "company":"TELOS Consulting",
         "title":"Section Manager",
-        "years":"Mar 2016 - Mar 2017",
+        "years":"Mar 2016 — Mar 2017",
         "description1":"- Developed admission strategies to colleges, boarding schools via individual consultations",
         "description2":"- Guided research projects, volunteer opportunities, and essay and application development",
         "description3":"- Strategized STEM-focused course planning and extracurricular activities",
@@ -76,7 +75,7 @@
       {
         "company":"Duke University Medical Center",
         "title":"Lab Manager; Research Technician II",
-        "years":"Jul 2007 - Mar 2012",
+        "years":"Jul 2007 — Mar 2012",
         "description1":"- Performed computer modeling of genomic data for personalized cancer treatment",
         "description2":"- Performed machine learning analyses/visualizations in R for computational bioinformatics",
         "description3":"- Managed 5-person laboratory through meeting scheduling, ordering, and inventory control",
@@ -85,49 +84,59 @@
       {
         "company":"Clemson University",
         "title":"Research Assistant",
-        "years":"Aug 2005 - May 2006",
+        "years":"Aug 2005 — May 2006",
         "description1":"- Performed biophysics research including experiment setup and computational analysis",
         "description2":"- Assisted with experiment towards paper on motion of UV-irradiated DNA",
         "description3":"- Performed statistical image analyses using MatLab",
         "description4":""
       }
     ],
+    "skillmessage":"Overview of technical skills:",
     "skills":[
       {
         "name":"C",
-        "level":"70%"
+        "years":"<1",
+        "description":"Completed university course with distinction mark. Well-versed with C coding standards and techniques such as unit testing."
       },
       {
         "name":"Java",
-        "level":"70%"
+        "years":"<1",
+        "description":"Completed university course with distinction mark. Finished several projects including a game using JavaFX and a relational database (see github). Experienced with OOP principles and design patterns."
       },
       {
         "name":"SQL",
-        "level":"70%"
+        "years":"<1",
+        "description":"Completed university course; well-versed in SQL database syntax and design (with proper normalizations)."
       },
       {
         "name":"Django",
-        "level":"70%"
+        "years":"<1",
+        "description":"Self-taught for MSc thesis project. Experienced with MVT architecture and ORM mapping."
       },
       {
         "name":"Python",
-        "level":"60%"
+        "years":"<1",
+        "description":"Self-taught for MSc thesis project."
       },
       {
-        "name":"JavaScript & Front End Frameworks (Vue JS, React JS)",
-        "level":"50%"
+        "name":"JavaScript & Front End Frameworks",
+        "years":"<1",
+        "description":"Developed side project websites with Vue JS and React JS. Familiar with component-based architecture."
       },
       {
         "name":"R",
-        "level":"50%"
+        "years":"3",
+        "description":"Experienced with R visualization techniques and statistical analyses. Developed proprietary scripts for academic research on cancer genomics."
       },
       {
         "name":"Swift",
-        "level":"40%"
+        "years":"<1",
+        "description":"Currently self-teaching."
       },
       {
         "name":"C#",
-        "level":"40%"
+        "years":"<1",
+        "description":"Developed cooking-themed game as group project using Unity with C#."
       }
     ]
   },
