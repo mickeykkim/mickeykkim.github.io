@@ -129,14 +129,14 @@
         "description":"Experienced with R visualization techniques and statistical analyses. Developed proprietary scripts for academic research on cancer genomics."
       },
       {
-        "name":"Swift",
-        "years":"<1",
-        "description":"Currently self-teaching."
-      },
-      {
         "name":"C#",
         "years":"<1",
         "description":"Developed cooking-themed game as group project using Unity with C#."
+      },
+      {
+        "name":"Swift",
+        "years":"<1",
+        "description":"Currently self-teaching."
       }
     ]
   },
