@@ -65,8 +65,8 @@ header .banner-text h1 {
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   font: 18px/30px 'librebaskerville-regular', serif;
+   color: rgb(200, 200, 200);
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -80,6 +80,27 @@ header .banner-text hr {
    margin: 18px auto 24px auto;
    border-color: #2F2D2E;
    border-color: rgba(150, 150, 150, .1);
+}
+header .occupation {
+   font: 18px 'bitstream-bold', sans-serif;
+   color: #fff;
+}
+
+header .blinkCursor { 
+animation-name: blinkCursor;
+animation-iteration-count: infinite;
+animation-timing-function: cubic-bezier(1,0,0,1);
+animation-duration: 0.75s;
+display: inline-block;
+width: 3px;
+height: 16px;
+margin-left: 3px;
+box-shadow: 0 0 10px rgba(255, 99, 71, .5);
+background: rgba(255, 99, 71, 1.0);
+}
+
+@keyframes blinkCursor { 
+from { opacity: 1.0 } to { opacity: 0.0 }
 }
 
 /* header social links */
@@ -203,7 +224,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: rgb(200, 200, 200);
    margin: 0 0 30px 0;
 }
 #about .profile-pic {
@@ -273,7 +294,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #6E7881;
+   color: rgb(90, 90, 90);
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -431,17 +452,25 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #ebeeee /* url(../images/projects-bg.jpg) no-repeat center center;
+   background-size: cover !important;
+	-webkit-background-size: cover !important;
+   background-attachment: fixed;
+   position: relative;
+   min-height: 200px;
+   width: 100%;
+   overflow: hidden
+   */;
    padding-top: 90px;
-   padding-bottom: 60px;
+   padding-bottom: 80px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 20px/28px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: rgb(220, 100, 0);
 }
 
 /* Portfolio Content */
@@ -812,7 +841,7 @@ call-to-action .button {
    background: #191919;
    padding-top: 96px;
    padding-bottom: 102px;
-   color: #636363;
+   color: #777777;
 }
 #contact .section-head { margin-bottom: 42px; }
 

@@ -36,6 +36,10 @@
       font: 17px/1.9em 'librebaskerville-regular', serif;
       width: 80%;
    }
+   header .occupation {
+      font: 16px 'bitstream-bold', sans-serif;
+      color: #fff;
+   }
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
@@ -357,6 +361,10 @@
    header .banner-text h3 {
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
+   }
+   header .occupation {
+      font: 14px 'bitstream-bold', sans-serif;
+      color: #fff;
    }
   
    /* header social links */
