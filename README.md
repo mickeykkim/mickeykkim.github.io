@@ -2,13 +2,11 @@
 
 ![Splash](https://imgur.com/YC9YIZW.png)
 
-This is a React JS resume webpage adapted from Tim Baker's react template (credits below) with some changes/updates to layout and css along with gh-pages integration for github hosting. It is currently a work-in-progress.
+This is a React JS resume webpage adapted from Tim Baker's react template (credits below) with some changes/updates to layout and css along with gh-pages integration for github hosting.
 
 All data is populated from a json file (<a href="https://github.com/mickeykkim/homepage/blob/master/public/resumeData.json">public/resumeData.json</a>) that the user can edit.
 
 <a href="https://github.com/mickeykkim/homepage/tree/gh-pages">Gh-pages branch</a> (website files) are deployed through the command `npm run deploy`.
-
-TODO: Finish contact form functionality.
 
 ### Website here: 
 https://mickeykkim.github.io/homepage/
