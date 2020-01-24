@@ -2,9 +2,9 @@
   "main": {
     "name":"Mickey Kim",
     "occupation":"Software Developer",
-    "description":"As a recent computer science graduate and previous computational biology cancer researcher, I'm looking to transition into a career in emergent technology (embedded IoT, Swift iOS, cloud computing, ML/AI, or full stack development) with emphasis on digital health",
+    "description":"As a recent computer science graduate and previous computational biology cancer researcher, I'm looking to transition into a career in emergent technology (embedded IoT, cloud computing, or full stack development) with emphasis on digital health",
     "image":"profilepic.jpg",
-    "bio":"I am a technology enthusiast with a passion for digital health. Previously, I worked in computational biology research focusing on personalized genomics for cancer treatment and have co-authored five papers (one first authorship). I also have extensive experience in education consulting to assist parents and students achieve their education goals through personalized expert assessment. Having recently completed a MSc in computer science, I want to transition careers in emerging technological fields such as embedded IoT, Swift iOS, cloud-based computing, machine learning/AI, or full stack development, particularly in the areas of digital health. In my free time I enjoy making music and traveling.",
+    "bio":"I am a technology enthusiast with a passion for digital health. Previously, I worked in computational biology research focusing on personalized genomics for cancer treatment and have co-authored five papers (one first authorship). I also have extensive experience in education consulting to assist parents and students achieve their education goals through personalized expert assessment. Having recently completed a MSc in computer science, I want to transition careers in emerging technological fields such as embedded IoT, cloud-based computing, or full stack development, particularly in the areas of digital health. In my free time I enjoy making music and traveling.",
     "contactmessage":"Drop me a line! I'd love to hear about any openings.",
     "address":{
       "street":"10 Failand Walk",
