@@ -2,15 +2,15 @@
   "main": {
     "name":"Mickey Kim",
     "occupation":"Software Developer",
-    "description":"As a emergent technology enthusiast, I am working as an embedded software developer creating software solutions to healthcare challenges.",
+    "description":"As a emergent technology enthusiast, I work as an embedded software developer creating solutions to healthcare challenges towards the goal of greater home-based care.",
     "image":"profilepic.jpg",
     "bio":"I am a technology enthusiast with a passion for digital health. Previously, I worked in computational biology research focusing on personalized genomics for cancer treatment and have co-authored five papers (one first authorship). I also have extensive experience in education consulting to assist parents and students achieve their education goals through personalized expert assessment. I am currently a software engineer at Entia, creating software solutions for challenges in digital health. In my free time I enjoy making music and traveling.",
     "contactmessage":"Drop me a line!",
     "address":{
-      "street":"10 Failand Walk",
+      "street":"",
       "city":"London",
       "state":"",
-      "postal": "BS9 2EU",
+      "postal": "",
       "country": "United Kingdom"
     },
     "copyrightyear":"2020",
@@ -54,7 +54,7 @@
         "company":"Entia",
         "title":"Software Engineer",
         "years":"Feb 2020 — Present",
-        "description1":"",
+        "description1":"- Develop software solutions in C and Python for embedded devices.",
         "description2":"",
         "description3":"",
         "description4":""
@@ -62,7 +62,7 @@
       {
         "company":"TELOS Consulting",
         "title":"Section Manager",
-        "years":"Mar 2016 — Mar 2017",
+        "years":"Mar 2017 — Mar 2018",
         "description1":"- Developed admission strategies to colleges, boarding schools via individual consultations",
         "description2":"- Guided research projects, volunteer opportunities, and essay and application development",
         "description3":"- Strategized STEM-focused course planning and extracurricular activities",
